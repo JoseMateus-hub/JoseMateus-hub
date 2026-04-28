@@ -55,6 +55,7 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**,
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
