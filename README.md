@@ -116,9 +116,9 @@ API moderna com estrutura profissional e suporte a operações assíncronas.
 📧 [josemateus957@email.com](mailto:josemateus957@email.com)  
 💼 LinkedIn: [José Mateus](https://linkedin.com/in/jose-mateus-222a5a144)
 
+
 ---
 
-## 🚀 Objetivo
 
 ## 🚀 Objetivo
 
