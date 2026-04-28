@@ -113,11 +113,13 @@ API moderna com estrutura profissional e suporte a operações assíncronas.
 
 ## 📫 Contato
 
-📧 [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: (adicione aqui)
+📧 [josemateus957@email.com](mailto:josemateus957@email.com)
+💼 LinkedIn: [José Mateus](https://linkedin.com/in/jose-mateus-222a5a144)
 
 ---
 
 ## 🚀 Objetivo
 
-Conseguir uma oportunidade como desenvolvedor para aplicar meus conhecimentos, evoluir na prática e crescer na área de tecnologia.
+## 🚀 Objetivo
+
+Construir uma carreira sólida na área de Engenharia de Software, evoluindo continuamente em conhecimento técnico, boas práticas e contribuindo com soluções que gerem impacto positivo.
