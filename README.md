@@ -13,6 +13,11 @@ Atualmente estou em formação como Desenvolvedor Full Stack, com foco em constr
 
 Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseMateus-hub&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateus-hub&layout=compact&theme=dark)
 ---
 
 ## 💼 Experiência
@@ -42,21 +47,20 @@ Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**,
 ## 🛠️ Tecnologias
 
 ### 💻 Front-End
-
-JavaScript • TypeScript • React • Next.js • Tailwind
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![React](https://img.shields.io/badge/React-000?logo=react)
 
 ### ⚙️ Back-End
-
-Node.js • Express • Python • FastAPI
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi)
 
 ### 🗄️ Banco de Dados
-
-PostgreSQL • SQLite
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 
 ### 🐳 Ferramentas
-
-Git • GitHub • Docker
-
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 ---
 
 ## 📌 Projetos
