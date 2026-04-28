@@ -8,10 +8,34 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia, resolução de problemas e desenvolvimento de sistemas.
-Atualmente estou em formação como Desenvolvedor Full Stack, buscando criar aplicações modernas, escaláveis e funcionais.
+Sou apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas.
+Atualmente estou em formação como Desenvolvedor Full Stack, com foco em construir aplicações modernas, organizadas e eficientes.
 
-Tenho foco em evoluir constantemente e conquistar minha primeira oportunidade como desenvolvedor, contribuindo com soluções reais e aprendendo na prática.
+Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos na prática e evoluir profissionalmente.
+
+---
+
+## 💼 Experiência
+
+**Estagiário em Tecnologia – i9 Publicidade**
+
+* Desenvolvimento e manutenção de interfaces utilizando WordPress
+* Customização de layouts com HTML e CSS
+* Ajustes de responsividade e experiência do usuário
+* Implementação de melhorias visuais conforme protótipos (Figma)
+
+---
+
+## 🎓 Formação
+
+**Engenharia de Software – Descomplica (EAD)**
+📅 Início: 2026
+
+**Formação Full Stack – Digital College**
+
+* HTML, CSS, JavaScript
+* React, Node.js, APIs REST
+* Banco de dados e integração
 
 ---
 
@@ -19,66 +43,76 @@ Tenho foco em evoluir constantemente e conquistar minha primeira oportunidade co
 
 ### 💻 Front-End
 
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* Vite
-* Tailwind CSS
+JavaScript • TypeScript • React • Next.js • Tailwind
 
 ### ⚙️ Back-End
 
-* Node.js
-* Express
-* Python
-* FastAPI
-* Prisma ORM
-* Zod
+Node.js • Express • Python • FastAPI
 
 ### 🗄️ Banco de Dados
 
-* PostgreSQL
-* SQLite
-
-### 🧱 Arquitetura
-
-* MVC
+PostgreSQL • SQLite
 
 ### 🐳 Ferramentas
 
-* Git
-* GitHub
-* Docker
-* ESLint
-* PostCSS
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseMateus-hub\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMateus-hub\&layout=compact\&theme=dark)
+Git • GitHub • Docker
 
 ---
 
 ## 📌 Projetos
 
-🔹 Sistema de Tarefas com autenticação JWT
-🔹 API REST com Node.js e Prisma
-🔹 Sistema Bancário em Python
-🔹 Portfólio com Next.js
+### 🔹 API de Contatos
+
+API REST para gerenciamento de contatos com estrutura organizada e boas práticas.
+
+💡 Funcionalidades:
+
+* CRUD completo
+* Validação de dados
+* Organização em camadas
+
+👉 Tecnologias: Node.js, Express, Prisma, PostgreSQL
+🔗 https://github.com/JoseMateus-hub/api-contatos
+
+---
+
+### 🔹 Sistema Bancário em Python
+
+Sistema com foco em lógica de programação e boas práticas utilizando POO.
+
+💡 Funcionalidades:
+
+* Cadastro de clientes e contas
+* Operações bancárias (depósito, saque, extrato)
+* Controle de transações
+
+👉 Tecnologias: Python
+🔗 https://github.com/JoseMateus-hub/Sistema-bancario-python
+
+---
+
+### 🔹 Sistema Bancário com FastAPI
+
+API moderna com estrutura profissional e suporte a operações assíncronas.
+
+💡 Funcionalidades:
+
+* CRUD via API
+* Estrutura organizada
+* Requisições assíncronas
+
+👉 Tecnologias: Python, FastAPI
+🔗 https://github.com/JoseMateus-hub/Sistema-bancario-fastapi
 
 ---
 
 ## 📫 Contato
 
 📧 [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: (adicione seu perfil aqui)
+💼 LinkedIn: (adicione aqui)
 
 ---
 
 ## 🚀 Objetivo
 
 Conseguir uma oportunidade como desenvolvedor para aplicar meus conhecimentos, evoluir na prática e crescer na área de tecnologia.
-
